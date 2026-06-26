@@ -1,0 +1,16 @@
+{
+  "short_name": "SafeBand AI",
+  "name": "SafeBand AI Personal Safety Companion",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#03000a",
+  "theme_color": "#f43f5e",
+  "display": "standalone",
+  "orientation": "portrait"
+}
